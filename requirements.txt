@@ -32,3 +32,4 @@ sphinxcontrib-serializinghtml==1.1.5
 sphinxcontrib-youtube==1.4.1
 urllib3==2.1.0
 zipp==3.17.0
+sphinxcontrib-manpage==0.6
