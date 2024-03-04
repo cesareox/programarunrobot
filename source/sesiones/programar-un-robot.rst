@@ -89,4 +89,4 @@ son los escenarios y cómo usarlos en la próxima sesión.
 Llegados a este punto, probablemente **ya puedas integrar** programas
 con robots en tu proyecto STEAM. Pero se pueden hacer más
 cosas, como veremos en la siguiente sección, al usar sensores y una
-programación más elabarada.
+programación más elaborada.

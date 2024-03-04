@@ -2,9 +2,6 @@
 Mover el robot hacia adelante
 =============================
 
-El problema
-===========
-
 Necesito programar un robot que se mueva hacia adelante, por ejemplo
 50 cm a una velocidad de 50.
 

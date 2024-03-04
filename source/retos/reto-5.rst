@@ -1,30 +1,49 @@
-=============================
-Avanzar y Retroceder
-=============================
+===============================
+Cuadrados dentro de un cuadrado
+===============================
 
 El problema
 ===========
 
-Incluir bucles y sentencias de control (ideal sin el uso de sensores
-de momento). Más programación y sin sensores (para la siguiente etapa).
+Un reto más avanzado para trabajar el recorrido de un robot, creando
+figuras geométricas (cuadrados) conectados entre sí.
+
+Queremos programar un robot que, activando su rastro, genere la figura
+descrita en la siguiente imagen. Son 2 cuadrados de 15 cm de lado,
+dentro de un cuadrado más grande, de 45 cm de lado.
+
+.. image:: /_static/imags/reto-5.webp
+
+El robot deberá volver al punto de partida y, al llegar, dirá "terminé
+mi recorrido".
 
 .. dropdown:: Solución
    :color: info
    :animate: fade-in
 
-   En este caso vemos que hay un bucle, es decir una repetición.
+   Vemos que hay varios movimientos que se repiten. Recuerda que
+   puedes copiar/pegar bloques o conjuntos de bloques, de forma
+   sencilla.
 
-   #. Repetir 5 veces
+   El algoritmo lo podriamos diseñar en dos fases, una más genérica y
+   otra más concreta:
 
-      #. Avanzar hacia adelante
-      #. Decir "Hola"
+   #. Avanzar
+   #. Crear el primer cuadrado
+   #. Avanzar
+   #. Crear el segundo cuadrado
+   #. Avanzar
+   #. Parar y decir "terminé mi recorrido"
 
-   Es decir, es como si fueran 10 instrucciones una detrás de la
-   otra. Es decir, 2 instrucciones que se repiten 5 veces.
+   Y para concretar el algoritmo necesitamos concretar cuánto avanza y cómo se crear un cuadrado (revisa :doc:`reto-4`).
 
-   En este caso hay bloques anidados, para indicar qué instrucciones
-   se repiten (están dentro del bucle).
-	 
-   .. image:: /_static/imags/reto-3.webp
+   Aquí puedes ver una propuesta de solución.:
+      
+   .. image:: /_static/imags/reto-5-sol.webp
 
-   El escenario de la simulación, en este caso, tampoco influye.
+   El escenario de la simulación, en este caso, tampoco influye. Pero
+   probando con uno sencillo, verás que muchas veces la simulación no
+   se corresponde con la realidad.
+
+   .. image:: /_static/imags/reto-5-sol2.webp
+

@@ -5,7 +5,8 @@ Pintar un cuadrado
 El problema
 ===========
 
-El robot no sólo se mueve, sino que puede girar (y muchas acciones más).
+El robot no sólo se mueve, sino que puede girar (y muchas acciones
+más).
 
 Queremos programar el robot para que se mueva hacia adelante 30 cm. Y luego se mueva siguiendo **un cuadrado de 20 cm de lado**. 
 

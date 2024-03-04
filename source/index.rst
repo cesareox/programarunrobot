@@ -4,7 +4,8 @@
 
 En esta web podrás consultar el material educativo utilizado en  **talleres
 de iniciación** a la robótica. Sólo necesitas un navegador web para
-usar el simulador online `Open Roberta Lab`_ . Este taller de iniciación tiene una duración de  **un par de horas**.
+usar el simulador online `Open Roberta Lab`_. Este taller de
+iniciación tiene una duración aproximada de **un par de horas**.
 
 Está **orientado a** profesores, familias y estudiantes con interés en aprender a programar de forma sencilla. 
 
@@ -16,13 +17,6 @@ Está **orientado a** profesores, familias y estudiantes con interés en aprende
 .. admonition:: Aprender a programar
    :class: seealso
 
-   Para personas de más de 16 años, o de menor edad pero muy
-   interesados, **lo que yo recomiendo** es aprender un lenguaje de
-   programación completo (por ejemplo Javascript o Python) y `usar
-   ejercicios genéricos`_  para aprender a usarlo. Para estudiantes
-   muy (muy) interesados en la programación puedes revisar la
-   propuesta de `Acepta el Reto`_  (ideal mayores de 16 años).
-
    El uso de **programación visual con bloques** es interesante como iniciación o
    estimulación a la programación en proyectos STEAM
    educativos. Es un contexto donde no todos los estudiantes están interesados y es más sencillo aprender
@@ -31,6 +25,13 @@ Está **orientado a** profesores, familias y estudiantes con interés en aprende
    **iniciarse en la programación y usarlo en un proyecto educativo**
    (por lúdico y motivador).
 
+   Para personas de más de 16 años, o de menor edad pero muy
+   interesados, **lo que yo recomiendo** es aprender un lenguaje de
+   programación completo (por ejemplo Python) y `usar
+   ejercicios genéricos`_  para aprender a usarlo. Para estudiantes
+   muy (muy) interesados en la programación también puedes revisar la
+   propuesta de `Acepta el Reto`_  (en principio para mayores de 16 años).
+   
 .. toctree::
    :maxdepth: 2
    :caption: Sesiones del Taller

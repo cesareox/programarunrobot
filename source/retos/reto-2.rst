@@ -2,9 +2,6 @@
 Avanzar y Retroceder
 =============================
 
-El problema
-===========
-
 Necesito programar un robot que se mueva hacia adelante, se pare 2
 segundos y luego retroceda la mitad de lo que ha avanzado. Es decir,
 no queremos que llegue a la situación de inicio, sino que se pare a
