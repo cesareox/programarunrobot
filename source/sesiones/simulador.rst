@@ -37,7 +37,7 @@ necesitas:
 El tercer paso, trasladar el programa al robot, **presenta algunas dificultades** para su uso en clase:
  
 #. Necesito el robot. Uno por cada estudiante o grupo. Y tiene que funcionar (tener batería y estar operativo).
-#. Necesito conectarme con el. Es decir, probar la conexión entre el simulador y el robot, sea con un cable conectado directamente o de forma inalámbrica.
+#. Necesito conectarme con él. Es decir, probar la conexión entre el simulador y el robot, sea con un cable conectado directamente o de forma inalámbrica.
 
 Por estas razones los docentes dejan pasar las oportunidades que el uso de la robótica les da en clase. La **idea de este taller** es avanzar con los pasos 1 y 2, muy sencillos de llevar al aula, antes de preparar la logística del paso 3.
 

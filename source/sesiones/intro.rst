@@ -30,11 +30,11 @@ Eso permite definir **algunas características**, que no sólo lo hacen interesa
 #. Es capaz de realizar acciones (tiene mecanismos de **actuación**)
 #. Es capaz de revisar su entorno (tiene **sensores**)
 
-Y tiene **un programa de control**. Podríamos decir que es un computador que funciona, aparentemente, sólo pero que hay que programar. En la práctica veremos que un robot:
+Y tiene un **programa de control**. Podríamos decir que es un computador que funciona, aparentemente sólo, pero que hay que programar. En la práctica veremos que un robot:
 
 #. Tiene diferentes tipos de sensores, desde donde adquiere información
 #. Tiene un programa de control, que según sus instrucciones
-   (algoritmo) y los datos de los sensores ...
+   (algoritmo) y datos que obtiene de los sensores ...
 #. ... actúa de una forma u otra (actuadores).
 #. Y así **continuamente** (no deja de estar funcionando).
 
@@ -48,8 +48,8 @@ Y sobre estos principios podríamos analizar casi cualquier tipo de robot. Puede
    virtual). Estos se suelen denominar *bots* y son mucho más comunes
    de lo que parece. Un ejemplo típico es el uso de chatbots, es
    decir, sistemas que "parecen humanos" porque hablan como
-   humanos. Pero no lo son. Son algunas de las famosas IAs
-   (inteligencias artificiales) de actualidad denominadas chatbots,
+   humanos. Pero no lo son. Son algunas de las famosas IAs LLM
+   (inteligencias artificiales que generan lenguaje) de actualidad denominadas chatbots,
    por ejemplo con ChatGPT. Aunque tienen mucho en común, aquí
    hablamos de robots hardware.
 
@@ -77,7 +77,7 @@ Una **segunda clasificación** podría ser según su uso:
 #. Experimentales. Robots para investigar y desarrollar soluciones
 #. De Ficción. Robots que existen en la cultura popular pero de los que no existe una representación real
 
-Podemos ver algunos **ejemplos de robots**, y su precio, para hacernos una idea de robots concretos:
+Podemos ver algunos **ejemplos de robots** y su precio, para hacernos una idea de robots concretos:
 
 #. El robot de limpieza `Roomba`_. Unos 500 USD.
 #. El robot educativo `Lego Mindstorm`_ . Unos 1.000 USD
@@ -85,7 +85,8 @@ Podemos ver algunos **ejemplos de robots**, y su precio, para hacernos una idea 
 #. El humanoide `ASIMO`_ . Unos 2.500.000 USD (no se vendió ninguno)
 #. Un robot móvil industrial (`RB - Vogui`_ ). Sin precio
 
-Y aquí puedes ver en el siguiente video una "especie de perrito" (Spot con cabeza articulada y sin ella):
+Y aquí puedes ver en el siguiente video un ejemplo de robot avanzado (en
+realidad dos, que se comunican). Son como dos "perritos":
    
 .. youtube:: fUyU3lKzoio
    :width: 100%

@@ -19,8 +19,7 @@ extensions = [
     'sphinx_design',
     'sphinxcontrib.youtube',
     'sphinxcontrib.manpage',
-    'sphinxcontrib.gtagjs',
-    'notfound.extension']
+    'sphinxcontrib.gtagjs']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -60,6 +59,6 @@ notfound_urls_prefix = ""
 
 # Pendiente publicar y asignar Google Analytics
 
-#gtagjs_ids = [
-#    '',
-#]
+gtagjs_ids = [
+    ''
+]

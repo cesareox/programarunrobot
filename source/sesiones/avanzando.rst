@@ -148,7 +148,7 @@ usando diferentes tipos de operaciones. Estas expresiones son operaciones sobre 
    
 Las operaciones lógicas (AND / OR) permiten obtener expresiones
 lógicas que son resultado de varias operaciones, es decir, es un
-cálculo especial de valores verdadero/falso. Generalmente construímos
+cálculo especial de valores verdadero/falso. Generalmente construimos
 expresiones (*fórmulas*) usando diferentes operaciones. Veamos el
 siguiente ejemplo:
 	   
@@ -168,7 +168,7 @@ Aprender a Programar (Practicar)
 ----------------------------------------------
 
 Pero bueno, **demasiada teoría en esta sesión**. Vamos a ponerlo en
-práctica en estos dos retos similares, donde solo cambia la condición
+práctica en estos dos retos similares, donde sólo cambia la condición
 de detección. Con esto, estaremos listos para el reto final.
 
 #. :doc:`/retos/reto-6`
