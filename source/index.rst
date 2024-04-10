@@ -37,7 +37,7 @@ Está **orientado a** profesores, familias y estudiantes con interés en aprende
    :caption: Sesiones del Taller
    :numbered:
 
-   /sesiones/intro
+   /sesiones/robots
    /sesiones/simulador
    /sesiones/programar-un-robot
    /sesiones/avanzando

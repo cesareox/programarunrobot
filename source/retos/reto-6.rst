@@ -11,7 +11,7 @@ obstáculo, para y gira 100 grados a la derecha para esquivarlo. Y
 sigue avanzando a una velocidad de 50.
 
 Verás que el robot no parará nunca y simplemente recorrerá todo el
-escenario detectando obstáculos (los bordes son obstáculos también) y esquivándolos. Como si tuviera un **propósito propio** (recuerda la definición de un robot - :doc:`/sesiones/intro`). 
+escenario detectando obstáculos (los bordes son obstáculos también) y esquivándolos. Como si tuviera un **propósito propio** (recuerda la definición de un robot - :doc:`/sesiones/robots`). 
 
 Además, cada vez que encuentre un obstáculo, dirá **Encontré un obstáculo. Giro y avanzo**. Para ver qué escribe en la pantalla tendrás que activar la vista de robot.
 
