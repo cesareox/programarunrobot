@@ -57,8 +57,8 @@ html_theme_options = {
 
 notfound_urls_prefix = ""    
 
-# Pendiente publicar y asignar Google Analytics
+# Probar Google Analytics
 
 gtagjs_ids = [
-    ''
+    'G-T7R41DT1LT'
 ]
