@@ -12,7 +12,11 @@ Está **orientado a** profesores, familias y estudiantes con interés en aprende
 .. admonition:: Proyecto STEAM RD
    :class: seealso
 		
-   Este material se utiliza dentro de la **formación STEAM** para profesores del sistema público de educación de República Dominicana, en el marco del `proyecto STEAM OEI - UV`_ 
+   Este material se utiliza dentro de la **formación STEAM** para
+   profesores del sistema público de educación de República
+   Dominicana, en el marco del `proyecto STEAM OEI - UV`_
+
+   He dado `el taller`_  en Abril 2024 para docentes en Cotuí, Constanza, Moca y   Gaspar Hernández
 
 .. admonition:: Aprender a programar
    :class: seealso
@@ -57,3 +61,4 @@ Está **orientado a** profesores, familias y estudiantes con interés en aprende
 .. _`proyecto STEAM OEI - UV`: https://oei.int/oficinas/republica-dominicana/noticias/la-oei-apoya-el-desarrollo-de-las-competencias-steam-rd
 .. _`usar ejercicios genéricos`: https://www.apuntesinformaticafp.com/actividades/ejercicios_programacion.html
 .. _`Acepta el Reto`: https://aceptaelreto.com/
+.. _`el taller`: https://docs.google.com/presentation/d/1F_5UEbUmkv3oAs7Wz2-ard0q4X4i7JAOFlp286boFUs/edit?usp=sharing
